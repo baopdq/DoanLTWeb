@@ -86,13 +86,11 @@
 }
 .TenBlog { 
 	color:rgba(49, 87, 86, 1);
-	width:279px;
 	height:56px;
 	position:absolute;
-	left:584px;
-	top:70px;
+	left:577px;
 	font-family:Raleway;
-	text-align:left;
+	text-align:center;
 	font-size:48px;
 	letter-spacing:0;
 }
@@ -275,7 +273,6 @@
 .ei37_160_37_150 { 
 	width:639px;
 	height:200px;
-	position:absolute;
 	background-image:url(./TMAnh/nha_xinh_thiet_ke_noi_that_ecopark_16523_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -479,7 +476,7 @@
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    backdrop-filter: brightness(0);
+    filter: brightness(0.5);
 	background-image:url(TMAnh/khung_1.png);
     background-color:rgb(0, 0, 0,);
 	background-repeat:no-repeat;
@@ -490,15 +487,14 @@
 	width:177px;
 	height:28px;
 	position:absolute;
-	left:217px;
-	top:236px;
+	left:320px;
+	top:450px;
 	font-family:Raleway;
-	text-align:left;
+	text-align:center;
 	font-size:24px;
 	letter-spacing:0;
 }
 .e37_94 { 
-	background-color:rgba(0, 0, 0, 0.4000000059604645);
 	width:610px;
 	height:230px;
 	position:absolute;
@@ -508,7 +504,9 @@
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
+	filter: brightness(0.5);
 	background-image:url(TMAnh/khung_2.png);
+	background-color:rgb(0, 0, 0,);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -517,10 +515,10 @@
 	width:139px;
 	height:28px;
 	position:absolute;
-	left:236px;
-	top:101px;
+	left:1000px;
+	top:300px;
 	font-family:Raleway;
-	text-align:left;
+	text-align:center;
 	font-size:24px;
 	letter-spacing:0;
 }
@@ -533,6 +531,7 @@
 	top:74px;
 	font-family:Raleway;
 	text-align:left;
+	font-weight: bolder;
 	font-size:48px;
 	letter-spacing:0;
 }
@@ -547,6 +546,7 @@
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
+	filter: brightness(0.5);
 	background-image:url(TMAnh/khung_3.png);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -556,8 +556,8 @@
 	width:147px;
 	height:28px;
 	position:absolute;
-	left:232px;
-	top:101px;
+	left:1000px;
+	top:570px;
 	font-family:Raleway;
 	text-align:left;
 	font-size:24px;
@@ -780,8 +780,8 @@
 	letter-spacing:0;
 }
 .e199_262 { 
-	width:124px;
-	height: -10px;
+	width:px;
+	height: 0px;
 	position:absolute;
 	left:27px;
 	top:0px;
@@ -794,11 +794,11 @@
 	top:0px;
 }
 .e199_264 { 
-	width:124px;
+	width:200px;
 	height:120px;
 	position:absolute;
-	left:0px;
-	top:0px;
+	left:-40px;
+	top:-50px;
 	background-image:url(TMAnh/premium_vector___river_house_monoline_logo_template_universal_creative_premium_symbol_vector_sign_icon__1_.png);
 	background-repeat:no-repeat;
 	background-size:cover;
